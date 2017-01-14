@@ -1,3 +1,6 @@
+# cpp-challenge
+
+C++ challenge/task to implement particular substring count and replace all occurances in char* and wchar_t* strings.
 
 To Compile:
 ----------------------------------
